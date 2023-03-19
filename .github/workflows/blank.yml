@@ -3,12 +3,6 @@
 # Nome da Actions:  
 name: Snake Game
 
-- uses: Platane/snk@master
-  id: snake-gif
-  with:
-    github_user_name: guiares1003
-    git_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
