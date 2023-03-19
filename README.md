@@ -1,7 +1,6 @@
 ### Olá, eu sou Guilherme Ares.
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guiares1003&showicons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiares1003">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=guiares1003&showicons=true&theme=dark&include_all_commits=true&count_private=true">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
