@@ -19,7 +19,7 @@ I'm a **Full-Stack** Developer. I focus on complete software architecture, creat
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guiares1003&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## Contribuições | Contributions
 
